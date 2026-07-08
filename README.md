@@ -6,4 +6,4 @@ Landing hub for the web design course resources.
 
 - **[Git guide](https://everydaydesign.github.io/git-guide/)** — collaborate with Git
 - **[Website](https://everydaydesign.github.io/website/guide/)** — HTML & CSS dev-environment template
-- **[Web app](https://github.com/everydaydesign/web-app)** — PHP & MySQL dev-environment template
+- **[Web app](https://everydaydesign.github.io/web-app/guide/)** — PHP & MySQL dev-environment template
