@@ -2,7 +2,7 @@
 
 Landing hub for the web design course resources.
 
-🌐 **[everydaydesign.github.io/webdesign](https://everydaydesign.github.io/webdesign/)**
+🌐 **[https://everydaydesign.github.io/webdesign](https://everydaydesign.github.io/webdesign/)**
 
 - **[Git guide](https://everydaydesign.github.io/git-guide/)** — collaborate with Git
 - **[Website](https://github.com/everydaydesign/website)** — HTML & CSS dev-environment template
